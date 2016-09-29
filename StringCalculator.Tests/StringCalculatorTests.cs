@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StringCalculator.Tests
 {
-    public class Class1
+    public class StringCalculatorTests
     {
     }
 }
